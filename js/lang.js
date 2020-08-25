@@ -85,10 +85,6 @@ var titleEl = document.querySelector('.title');
           document.getElementById("con").href = "ar-contact.html";
         }
 
-        
-
-
-        
 
 			});
     });
